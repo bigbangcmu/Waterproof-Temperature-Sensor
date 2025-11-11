@@ -1,4 +1,4 @@
-https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Waterproof%20Temperature%20Sensor/%5B%20Multi%20%5D%20-%20Waterproof%20Temperature%20Sensor.jpg?raw=true
+![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Waterproof%20Temperature%20Sensor/%5B%20Multi%20%5D%20-%20Waterproof%20Temperature%20Sensor.jpg?raw=true)
 
 # Waterproof-Temperature-Sensor
 **Waterproof Temperature Sensor** is a digital temperature sensor that provides accurate temperature readings in a compact and waterproof design. It communicates using the 1-Wire protocol, allowing multiple sensors to be connected on the same data line, each identified by a unique 64-bit serial code. It operates by detecting temperature through its internal circuit, converting the value into digital data, and then sending that data through the signal line to a microcontroller.
