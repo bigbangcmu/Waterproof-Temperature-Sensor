@@ -88,7 +88,10 @@ There are two ways to connect the sensor:
 - Click **Download**, then click **Run Code** to start running your program.
 ![](https://github.com/bigbangcmu/bigbang/blob/bigbangcmu/Waterproof%20Temperature%20Sensor/Water%20Temp%207.gif?raw=true){{{width="1000" height="auto"}}}
   
-  **Cautions**
+::: details Additional information
+**Buy online:** [Waterproof Temperature Sensor](https://www.arduitronics.com/product/342/waterproof-temperature-sensor-ds18b20-1-meter)
+
+**Cautions**
 - Avoid modifying wires or connecting them incorrectly, as this may damage the device.
 - Do not touch the sensor head while it is operating, as it may affect detection accuracy.
 - If the sensor does not work, check the voltage and wiring connections.
